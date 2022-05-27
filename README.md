@@ -17,3 +17,12 @@ open-as-popup, https://chrome.google.com/webstore/detail/open-as-popup/ncppfjlad
 videospeed (extension for yt videos/html5 speedup), https://github.com/igrigorik/videospeed
 
 export of extensions, https://chrome.google.com/webstore/detail/export-links-of-all-exten/cmeckkgeamghjhkepejgjockldoblhcb?hl=en
+
+
+# websites
+numpad calculator, https://calculator.com/standard-tape/
+
+online whiteboard, https://witeboard.com/ 
+
+mindmaps, https://www.whiteboard.team/
+          https://github.com/ondras/my-mind
