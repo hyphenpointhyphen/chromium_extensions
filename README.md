@@ -1,5 +1,5 @@
 # chromium_extensions
-List of handy chromium extensions
+List of handy online resources (websites, extensions, ..)
 
 
 vimium, https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en
