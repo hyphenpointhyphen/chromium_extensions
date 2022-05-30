@@ -22,15 +22,15 @@ export of extensions, https://chrome.google.com/webstore/detail/export-links-of-
 # websites
 numpad calculator, https://calculator.com/standard-tape/
 
+online whiteboard, https://witeboard.com/ 
+
+mindmaps, https://www.whiteboard.team/
+          https://github.com/ondras/my-mind
+
 overleaf ofc, https://www.overleaf.com/project
 
 latex handwriting converter, https://webdemo.myscript.com/views/math/index.html
 
-online whiteboard, https://witeboard.com/ 
-
 latex symbol recognizer, https://detexify.kirelabs.org/classify.html
-
-mindmaps, https://www.whiteboard.team/
-          https://github.com/ondras/my-mind
 
 chromium portable, https://portapps.io/app/ungoogled-chromium-portable/
