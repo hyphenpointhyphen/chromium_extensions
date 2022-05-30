@@ -22,6 +22,8 @@ export of extensions, https://chrome.google.com/webstore/detail/export-links-of-
 # websites
 numpad calculator, https://calculator.com/standard-tape/
 
+latex handwriting converter, https://webdemo.myscript.com/views/math/index.html
+
 online whiteboard, https://witeboard.com/ 
 
 mindmaps, https://www.whiteboard.team/
