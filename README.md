@@ -26,3 +26,5 @@ online whiteboard, https://witeboard.com/
 
 mindmaps, https://www.whiteboard.team/
           https://github.com/ondras/my-mind
+
+chromium portable, https://portapps.io/app/ungoogled-chromium-portable/
