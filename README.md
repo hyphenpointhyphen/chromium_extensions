@@ -4,8 +4,6 @@ List of handy online resources (websites, extensions, ..)
 
 vimium, https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en
 
-zoom, https://chrome.google.com/webstore/detail/zoom-for-google-chrome/lajondecmobodlejlcjllhojikagldgd/related
-
 ublock origin, https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
 
 gmail checker, https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff?hl=en
