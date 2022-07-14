@@ -25,6 +25,7 @@ https://calculator.com/standard-tape/
 online whiteboard, 
 https://app.sketchtogether.com/s/sketch/5HkQT.4.1/
 https://www.tutorialspoint.com/whiteboard.htm
+https://www.mathwhiteboard.com/whiteboard/?d=WXBYAL
 
 mindmaps, https://www.whiteboard.team/
           https://github.com/ondras/my-mind
