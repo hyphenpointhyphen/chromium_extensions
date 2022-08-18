@@ -37,3 +37,7 @@ latex handwriting converter, https://webdemo.myscript.com/views/math/index.html
 latex symbol recognizer, https://detexify.kirelabs.org/classify.html
 
 chromium portable, https://portapps.io/app/ungoogled-chromium-portable/
+
+# Youtube
+
+to get the play all button back, type **?view=57** after the channel url
