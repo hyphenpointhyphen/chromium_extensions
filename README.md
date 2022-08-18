@@ -16,6 +16,8 @@ videospeed (extension for yt videos/html5 speedup), https://github.com/igrigorik
 
 export of extensions, https://chrome.google.com/webstore/detail/export-links-of-all-exten/cmeckkgeamghjhkepejgjockldoblhcb?hl=en
 
+bookmarks commander, https://chrome.google.com/webstore/detail/bookmarks-commander/knfpajocfeohpaipkfpdbfhgibajfmcf
+
 
 # websites
 numpad calculator, 
