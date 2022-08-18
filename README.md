@@ -41,3 +41,7 @@ chromium portable, https://portapps.io/app/ungoogled-chromium-portable/
 # Youtube
 
 to get the play all button back, type **?view=57** after the channel url
+
+# Germany specific sites
+
+https://marudor.de/
