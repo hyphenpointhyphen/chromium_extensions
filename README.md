@@ -23,7 +23,6 @@ zoom specific tabs, https://chrome.google.com/webstore/detail/zoom-for-google-ch
 
 # websites
 numpad calculator, 
-
 https://web2.0calc.com/
 
 online whiteboard, 
