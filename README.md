@@ -18,7 +18,7 @@ export of extensions, https://chrome.google.com/webstore/detail/export-links-of-
 
 bookmarks commander, https://chrome.google.com/webstore/detail/bookmarks-commander/knfpajocfeohpaipkfpdbfhgibajfmcf
 
-zoom specific tabs, https://chrome.google.com/webstore/detail/zoom-page-we/bcdjhkphgmiapajkphennjfgoehpodpk/related?hl=en-US
+zoom specific tabs, https://chrome.google.com/webstore/detail/zoom-for-google-chrome/lajondecmobodlejlcjllhojikagldgd/related?hl=en
 
 
 # websites
