@@ -24,29 +24,34 @@ zoom specific tabs, https://chrome.google.com/webstore/detail/zoom-for-google-ch
 # websites
 numpad calculator, 
 https://web2.0calc.com/
-https://calculator.com/standard-tape/
 
 online whiteboard, 
-https://app.sketchtogether.com/s/sketch/5HkQT.4.1/
 https://www.tutorialspoint.com/whiteboard.htm
+https://app.sketchtogether.com/s/sketch/5HkQT.4.1/
 https://www.mathwhiteboard.com/whiteboard/?d=WXBYAL
 
-mindmaps, https://www.whiteboard.team/
-          https://github.com/ondras/my-mind
+mindmaps, 
+https://github.com/ondras/my-mind
+https://www.whiteboard.team/
 
-overleaf ofc, https://www.overleaf.com/project
+overleaf ofc, 
+https://www.overleaf.com/project
 
-latex handwriting converter, https://webdemo.myscript.com/views/math/index.html
+latex handwriting converter, 
+https://webdemo.myscript.com/views/math/index.html
 
-latex symbol recognizer, https://detexify.kirelabs.org/classify.html
+latex symbol recognizer, 
+https://detexify.kirelabs.org/classify.html
 
-chromium portable, https://portapps.io/app/ungoogled-chromium-portable/
+chromium portable, 
+https://portapps.io/app/ungoogled-chromium-portable/
 
 # Youtube
 
 to get the play all button back, type **?view=57** after the channel url
 
-sort playlists by various params, works mostly, https://ytplaylistsorter.carterrj.co.uk/
+sort playlists by various params, works mostly, 
+https://ytplaylistsorter.carterrj.co.uk/
 
 
 # Germany specific sites
