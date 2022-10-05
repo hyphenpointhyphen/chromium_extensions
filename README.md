@@ -54,6 +54,8 @@ sort playlists by various params, works mostly,
 https://ytplaylistsorter.carterrj.co.uk/
 
 
-# Germany specific sites
+# Germany specific sites (somewhat)
 
 https://marudor.de/
+
+https://travic.app/
