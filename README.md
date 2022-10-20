@@ -30,6 +30,9 @@ https://www.tutorialspoint.com/whiteboard.htm
 https://app.sketchtogether.com/s/sketch/5HkQT.4.1/
 https://www.mathwhiteboard.com/whiteboard/?d=WXBYAL
 
+mindmap & whiteboard
+https://www.whiteboard.team/
+
 mindmaps, 
 https://github.com/ondras/my-mind
 https://www.whiteboard.team/
