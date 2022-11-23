@@ -12,7 +12,7 @@ easy auto refresh, https://chrome.google.com/webstore/detail/easy-auto-refresh/a
 
 open-as-popup, https://chrome.google.com/webstore/detail/open-as-popup/ncppfjladdkdaemaghochfikpmghbcpc?hl=en
 
-videospeed (extension for yt videos/html5 speedup), https://github.com/igrigorik/videospeed
+videospeed (extension for yt videos/html5 speedup), https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
 
 export of extensions, https://chrome.google.com/webstore/detail/export-links-of-all-exten/cmeckkgeamghjhkepejgjockldoblhcb?hl=en
 
@@ -66,3 +66,6 @@ https://ytplaylistsorter.carterrj.co.uk/
 https://marudor.de/
 
 https://travic.app/
+
+# testing
+https://chrome.google.com/webstore/detail/iorad-the-tutorial-builde/kjfmedbganalpkohkeghhpppicoigdal
