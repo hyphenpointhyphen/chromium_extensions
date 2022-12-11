@@ -41,10 +41,16 @@ overleaf ofc,
 https://www.overleaf.com/project
 
 *LATEX*
+
 graphing
 https://www.mathcha.io/editor
 
+latex table generator
+
+https://www.latex-tables.com/
+
 latex handwriting converter, 
+
 https://webdemo.myscript.com/views/math/index.html
 
 latex symbol recognizer, 
