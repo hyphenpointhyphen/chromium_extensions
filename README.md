@@ -48,14 +48,13 @@ https://www.mathcha.io/editor
 latex table generator
 https://www.latex-tables.com/
 
-latex handwriting converter, 
-
+latex handwriting converter 
 https://webdemo.myscript.com/views/math/index.html
 
-latex symbol recognizer, 
+latex symbol recognizer 
 https://detexify.kirelabs.org/classify.html
 
-chromium portable, 
+chromium portable 
 https://portapps.io/app/ungoogled-chromium-portable/
 
 # Youtube
