@@ -46,7 +46,6 @@ graphing
 https://www.mathcha.io/editor
 
 latex table generator
-
 https://www.latex-tables.com/
 
 latex handwriting converter, 
