@@ -25,7 +25,8 @@ zoom specific tabs, https://chrome.google.com/webstore/detail/zoom-for-google-ch
 numpad calculator, 
 https://web2.0calc.com/
 
-online whiteboard, 
+online whiteboard
+
 https://www.tutorialspoint.com/whiteboard.htm
 https://sketchtogether.com/
 https://www.mathwhiteboard.com/whiteboard/?d=WXBYAL
