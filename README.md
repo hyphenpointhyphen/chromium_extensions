@@ -71,5 +71,7 @@ https://marudor.de/
 
 https://travic.app/
 
-# evaulate 
+# evaluate 
 https://chrome.google.com/webstore/detail/iorad-the-tutorial-builde/kjfmedbganalpkohkeghhpppicoigdal
+
+https://workspace.google.com/marketplace/app/organizer_duplicate_remover_for_google_d/31056671523
