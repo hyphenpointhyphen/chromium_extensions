@@ -15,6 +15,7 @@ open-as-popup, https://chrome.google.com/webstore/detail/open-as-popup/ncppfjlad
 videospeed (extension for yt videos/html5 speedup), https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
 
 export of extensions, https://chrome.google.com/webstore/detail/export-links-of-all-exten/cmeckkgeamghjhkepejgjockldoblhcb?hl=en
+taken out of web store: download here https://www.crx4chrome.com/crx/60155/
 
 bookmarks commander, https://chrome.google.com/webstore/detail/bookmarks-commander/knfpajocfeohpaipkfpdbfhgibajfmcf
 
@@ -75,3 +76,5 @@ https://travic.app/
 https://chrome.google.com/webstore/detail/iorad-the-tutorial-builde/kjfmedbganalpkohkeghhpppicoigdal
 
 https://workspace.google.com/marketplace/app/organizer_duplicate_remover_for_google_d/31056671523
+
+
