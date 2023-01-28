@@ -16,6 +16,7 @@ videospeed (extension for yt videos/html5 speedup), https://chrome.google.com/we
 
 export of extensions, https://chrome.google.com/webstore/detail/export-links-of-all-exten/cmeckkgeamghjhkepejgjockldoblhcb?hl=en
 taken out of web store: download here https://www.crx4chrome.com/crx/60155/
+works as of 2023 Jan 28: https://github.com/hyphenpointhyphen/online_resources/blob/main/backup_extensions
 
 bookmarks commander, https://chrome.google.com/webstore/detail/bookmarks-commander/knfpajocfeohpaipkfpdbfhgibajfmcf
 
