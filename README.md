@@ -1,3 +1,9 @@
+# learning
+## computer science
+https://missing.csail.mit.edu/about/
+
+
+
 # chromium_extensions
 List of handy online resources (websites, extensions, ..)
 
