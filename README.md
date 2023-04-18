@@ -2,7 +2,11 @@
 ## computer science
 https://missing.csail.mit.edu/about/
 
+# *nix
 
+https://github.com/bcpierce00/unison
+
+ncdu
 
 # chromium_extensions
 List of handy online resources (websites, extensions, ..)
