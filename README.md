@@ -32,6 +32,7 @@ bookmarks commander, https://chrome.google.com/webstore/detail/bookmarks-command
 
 zoom specific tabs, https://chrome.google.com/webstore/detail/zoom-for-google-chrome/lajondecmobodlejlcjllhojikagldgd/related?hl=en
 
+kanban tool, https://chrome.google.com/webstore/detail/kanbantab-todo-default-ta/ahkenbfeanbgpmcbhpoloakaflknkpho/related
 
 # websites
 numpad calculator, 
