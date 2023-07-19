@@ -59,7 +59,7 @@ graphing
 https://www.mathcha.io/editor
 
 latex table generator
-[https://www.latex-tables.com/](https://www.tablesgenerator.com/)
+https://www.tablesgenerator.com/
 
 latex handwriting converter 
 https://webdemo.myscript.com/views/math/index.html
