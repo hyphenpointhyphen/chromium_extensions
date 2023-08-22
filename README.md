@@ -77,6 +77,9 @@ to get the play all button back, type **?view=57** after the channel url
 sort playlists by various params, works mostly, 
 https://ytplaylistsorter.carterrj.co.uk/
 
+to mp3
+https://en.bigconverter.com/youtube-to-mp3-97/
+
 
 # Germany specific sites (somewhat)
 
