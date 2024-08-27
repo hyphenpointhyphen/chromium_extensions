@@ -80,6 +80,10 @@ https://ytplaylistsorter.carterrj.co.uk/
 to mp3
 https://en.bigconverter.com/youtube-to-mp3-97/
 
+# Streaming
+
+https://www.projectfreetv.lol/
+
 
 # Germany specific sites (somewhat)
 
